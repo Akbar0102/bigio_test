@@ -1,6 +1,6 @@
 # bigio_test
 
-## No 5
+### No 5
 dibuat API dengan endpoint:
 1. localhost:3000/api/signup -> POST - untuk menambah user baru dengan masukan {email, password, role}
 2. localhost:3000/api/komoditas -> POST - menambah data komoditas oleh user dengan role surveyor {name, price, date, market}
